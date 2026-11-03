@@ -37,7 +37,7 @@ window.MONTHSARY = {
     youtube: "https://www.youtube.com/watch?v=7MzjfdU4JfA",  // Na Para Bang
     startAt: 0,      // seconds into the song
     src: "",
-    volume: 0.45,    // 0 – 1
+    volume: 1,       // 0 – 1 (1 = max)
   },
   heartbeatSound: true,
 
